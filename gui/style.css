@@ -1,0 +1,15 @@
+
+QWidget#window {
+    background: red;
+    
+}
+QTableWidget{
+    background: lightblue;
+}
+
+QPushButton{
+    background: lightgray;
+}
+QLabel{
+    font-weight: bold;
+}
